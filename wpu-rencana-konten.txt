@@ -3,7 +3,11 @@ rencana konten WPU
 - JS
   * ES6
   * Framework JS
+    ~ veu
+    ~ react
 - Struktur Data Dasar
 - PHP Framework
+  ~ Laravel
 - Interview
 - Vlogs
+- Python
