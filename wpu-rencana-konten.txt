@@ -5,9 +5,10 @@ rencana konten WPU
   * Framework JS
     ~ veu
     ~ react
+    ~ angular
 - Struktur Data Dasar
 - PHP Framework
   ~ Laravel
-- Interview
+- Interviews
 - Vlogs
 - Python
